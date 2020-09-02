@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://wswhomo.afip.gov.ar/wsfev1/service.asmx?WSDL" uri="wsdl/wswhomo.afip.gov.ar/wsfev1/service.asmx.wsdl"/>
+</catalog>
