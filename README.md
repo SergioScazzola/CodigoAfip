@@ -1,7 +1,7 @@
 # CodigoAfip
 Código Java para Autenticar y Utilizar Servicios Web de Afip
 
-Este código se puede utilizar para acceder a los Web Services de la Afip en Argentina
+Este código se puede utilizar para acceder a los Web Services Soap de la Afip en Argentina
 y poder por ejemplo solicitar un CAE (Comprobante de Autorización Electronica) para
 emitir una Factura Electrónica. Tambien se explica como se pueden utilizar los servicios
 Web de cualquier sitio mediante la lectura del archivo WSDL. Para este ejemplo se utilizó
