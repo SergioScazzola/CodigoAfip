@@ -14,7 +14,7 @@ Si tienen alguna duda, no duden en escribirme un e-mail : scazzolasergio@gmail.c
 
 Se trata de dos modulos : Un módulo (AfipAuth) afectua la autenticación y la autorización 
 del servicios "wsfe" (facturacion electronica) obteniendo token y sign. El otro módulo
-implementa el acceso al resto de los servicios relacionados con Facturacion Electronica.
-Los modulos funcionan a la perfeccion en homologación y pueden ser utilizados con pocos 
+(AfipServicios) implementa el acceso al resto de los servicios relacionados con Facturacion Electronica.
+Los módulos funcionan a la perfeccion en homologación y pueden ser utilizados con pocos 
 cambios para producción.
 
